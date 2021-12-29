@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-hotel
       - title: "Non-wedding fun"
         desc: "Other stuff to do"
-        icon: fab fa-tree
+        icon: fas fa-tree
 
   portfolio:
     title: "Portfolio"
