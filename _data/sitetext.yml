@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "The Venue"
         desc: "How and when to get there."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-industry #find more at https://fontawesome.com/icons
       - title: "Lodging"
         desc: "Where to stay."
-        icon: fas fa-laptop
+        icon: fas fa-hotel
       - title: "Non-wedding fun"
         desc: "Other stuff to do"
-        icon: fab fa-markdown
+        icon: fab fa-tree
 
   portfolio:
     title: "Portfolio"
