@@ -14,28 +14,44 @@ en: &DEFAULT_EN
     title: We're getting married!
     text: Now what?
     button: All You Need to Know
-    buttonlink: "#all-you-need"
+    buttonlink: "#how-to-succeed"
 
-  services:
-    title: "How to succeed at our wedding"
-    text: "In three simple steps"
-    section: all-you-need
-    list:
-      - title: "The Venue"
-        desc: "How and when to get there."
-        icon: fas fa-industry #find more at https://fontawesome.com/icons
-      - title: "Lodging"
-        desc: "Where to stay."
-        icon: fas fa-hotel
-      - title: "Non-wedding fun"
-        desc: "Other stuff to do"
-        icon: fas fa-tree
-
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+team:
+  title: "How to succeed at our wedding"
+  text: "In three simple steps."
+  subtext: More instructions.
+  section: how-to-succeed
+  people:
+    - name: "Portland Public Works"
+      role: "The venue"
+      image: assets/img/site-guide/pubic-works.png
+      social:
+        - url: https://g.page/thepublicworksmaine?share
+          icon: fas fa-map-signs
+        - url: https://www.instagram.com/the_public_works_events/
+          icon: fab fa-instagram
+        # - url: https://linkedin.com
+        #   icon: fab fa-linkedin-in
+    - name: "Lodging"
+      role: "Group rates and guidance"
+      image: assets/img/site-guide/eastland.png
+      social:
+        - url: https://www.marriott.com/event-reservations/reservation-link.mi?id=1640189676884&key=GRP&app=resvlink
+          icon: fas fa-hotel
+        # - url: https://facebook.com
+        #   icon: fab fa-facebook-f
+        # - url: https://linkedin.com
+        #   icon: fab fa-linkedin-in
+    - name: "Non-wedding fun"
+      role: "A Maine Adventure®"
+      image: assets/img/site-guide/renys.png
+      social:
+        - url: https://twitter.com
+          icon: fab fa-twitter
+        - url: https://facebook.com
+          icon: fab fa-facebook-f
+        - url: https://linkedin.com
+          icon: fab fa-linkedin-in
 
   timeline:
     title: "Timeline"
@@ -92,43 +108,6 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
@@ -165,6 +144,27 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
+
+# services:
+#   title: "How to succeed at our wedding"
+#   text: "In three simple steps"
+#   section: all-you-need
+#   list:
+#     - title: "The Venue"
+#       desc: "How and when to get there."
+#       icon: fas fa-industry #find more at https://fontawesome.com/icons
+#     - title: "Lodging"
+#       desc: "Where to stay."
+#       icon: fas fa-hotel
+#     - title: "Non-wedding fun"
+#       desc: "Other stuff to do"
+#       icon: fas fa-tree
+#
+# portfolio:
+#   title: "The Venue"
+#   text: "Lorem ipsum dolor sit amet consectetur."
+#   section: venue
+#   closebutton: "Close Project"
 
 # Spanish
 # -------
