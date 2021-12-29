@@ -16,6 +16,27 @@ en: &DEFAULT_EN
     button: All You Need to Know
     buttonlink: "#how-to-succeed"
 
+services:
+  title: "How to succeed at our wedding"
+  text: "In three simple steps"
+  section: all-you-need
+  list:
+    - title: "The Venue"
+      desc: "How and when to get there."
+      icon: fas fa-industry #find more at https://fontawesome.com/icons
+    - title: "Lodging"
+      desc: "Where to stay."
+      icon: fas fa-hotel
+    - title: "Non-wedding fun"
+      desc: "Other stuff to do"
+      icon: fas fa-tree
+
+portfolio:
+  title: "The Venue"
+  text: "Lorem ipsum dolor sit amet consectetur."
+  section: venue
+  closebutton: "Close Project"
+
 team:
   title: "How to succeed at our wedding"
   text: "In three simple steps."
@@ -144,27 +165,6 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
-
-# services:
-#   title: "How to succeed at our wedding"
-#   text: "In three simple steps"
-#   section: all-you-need
-#   list:
-#     - title: "The Venue"
-#       desc: "How and when to get there."
-#       icon: fas fa-industry #find more at https://fontawesome.com/icons
-#     - title: "Lodging"
-#       desc: "Where to stay."
-#       icon: fas fa-hotel
-#     - title: "Non-wedding fun"
-#       desc: "Other stuff to do"
-#       icon: fas fa-tree
-#
-# portfolio:
-#   title: "The Venue"
-#   text: "Lorem ipsum dolor sit amet consectetur."
-#   section: venue
-#   closebutton: "Close Project"
 
 # Spanish
 # -------
