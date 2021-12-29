@@ -11,24 +11,24 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: We're getting married!
+    text: Now what?
+    button: All You Need to Know
+    buttonlink: "#all-you-need"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "How to succeed at our wedding"
+    text: "In three simple steps"
+    section: all-you-need
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "The Venue"
+        desc: "How and when to get there."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Lodging"
+        desc: "Where to stay."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Non-wedding fun"
+        desc: "Other stuff to do"
         icon: fab fa-markdown
 
   portfolio:
