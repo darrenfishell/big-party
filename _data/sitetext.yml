@@ -16,27 +16,6 @@ en: &DEFAULT_EN
     button: All You Need to Know
     buttonlink: "#how-to-succeed"
 
-services:
-  title: "How to succeed at our wedding"
-  text: "In three simple steps"
-  section: all-you-need
-  list:
-    - title: "The Venue"
-      desc: "How and when to get there."
-      icon: fas fa-industry #find more at https://fontawesome.com/icons
-    - title: "Lodging"
-      desc: "Where to stay."
-      icon: fas fa-hotel
-    - title: "Non-wedding fun"
-      desc: "Other stuff to do"
-      icon: fas fa-tree
-
-portfolio:
-  title: "The Venue"
-  text: "Lorem ipsum dolor sit amet consectetur."
-  section: venue
-  closebutton: "Close Project"
-
 team:
   title: "How to succeed at our wedding"
   text: "In three simple steps."
@@ -51,18 +30,18 @@ team:
           icon: fas fa-map-signs
         - url: https://www.instagram.com/the_public_works_events/
           icon: fab fa-instagram
-        # - url: https://linkedin.com
-        #   icon: fab fa-linkedin-in
+        - url: https://linkedin.com
+          icon: fab fa-linkedin-in
     - name: "Lodging"
       role: "Group rates and guidance"
       image: assets/img/site-guide/eastland.png
       social:
         - url: https://www.marriott.com/event-reservations/reservation-link.mi?id=1640189676884&key=GRP&app=resvlink
           icon: fas fa-hotel
-        # - url: https://facebook.com
-        #   icon: fab fa-facebook-f
-        # - url: https://linkedin.com
-        #   icon: fab fa-linkedin-in
+        - url: https://facebook.com
+          icon: fab fa-facebook-f
+        - url: https://linkedin.com
+          icon: fab fa-linkedin-in
     - name: "Non-wedding fun"
       role: "A Maine Adventure®"
       image: assets/img/site-guide/renys.png
@@ -165,6 +144,27 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
+
+# services:
+#   title: "How to succeed at our wedding"
+#   text: "In three simple steps"
+#   section: all-you-need
+#   list:
+#     - title: "The Venue"
+#       desc: "How and when to get there."
+#       icon: fas fa-industry #find more at https://fontawesome.com/icons
+#     - title: "Lodging"
+#       desc: "Where to stay."
+#       icon: fas fa-hotel
+#     - title: "Non-wedding fun"
+#       desc: "Other stuff to do"
+#       icon: fas fa-tree
+#
+# portfolio:
+#   title: "The Venue"
+#   text: "Lorem ipsum dolor sit amet consectetur."
+#   section: venue
+#   closebutton: "Close Project"
 
 # Spanish
 # -------
