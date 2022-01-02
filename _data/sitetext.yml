@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: "In three simple steps."
     subtext: More instructions.
     section: how-to-succeed
-    people:
+    items:
       - name: "Portland Public Works"
         role: "The venue"
         image: assets/img/site-guide/pubic-works.png
