@@ -2,12 +2,12 @@
 caption:
   title: Portland Public Works
   subtitle: The venue
-  thumbnail: ../site-guide/pubic-works.png
+  thumbnail: assets/img/site-guide/pubic-works.png
 
 #what displays when the item is clicked:
 title: Portland Public Works
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: ../site-guide/pubic-works.png #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/site-guide/pubic-works.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
