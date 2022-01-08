@@ -16,6 +16,12 @@ en: &DEFAULT_EN
     button: All You Need to Know
     buttonlink: "#how-to-succeed"
 
+  portfolio:
+    title: "The Venue"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: venue
+    closebutton: "Close Project"
+
   how-to-succeed:
     title: "How to succeed at our wedding"
     text: "In three simple steps."
@@ -160,11 +166,6 @@ en-AU:
 #       desc: "Other stuff to do"
 #       icon: fas fa-tree
 #
-# portfolio:
-#   title: "The Venue"
-#   text: "Lorem ipsum dolor sit amet consectetur."
-#   section: venue
-#   closebutton: "Close Project"
 
 # Spanish
 # -------
