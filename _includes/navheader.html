@@ -20,6 +20,8 @@
               <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
             {%- else if link.section -%}
               <a class="nav-link js-scroll-trigger" href="#{{ link.section }}">{{ link.title }}</a>
+            {%- else if link.popup -%}
+              <a class="portfolio-link" data-toggle="modal" href="#{{ link.popup }}">{{ link.title }}</a>
             {%- else -%}
               <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
             {%- endif -%}
@@ -30,7 +32,7 @@
     </div>
   </nav>
   <!-- End Navigation -->
-  
+
   <!-- Header -->
   <header class="masthead">
     <div class="container">
