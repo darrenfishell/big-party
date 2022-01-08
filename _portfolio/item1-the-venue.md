@@ -1,7 +1,7 @@
 ---
 caption:
-  title: Portland Public Works
-  subtitle: The venue
+  title: The venue
+  subtitle: Portland Public Works
   thumbnail: assets/img/site-guide/pubic-works.png
 
 #what displays when the item is clicked:

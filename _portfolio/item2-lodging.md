@@ -1,7 +1,7 @@
 ---
 caption:
-  title: The Westin Harborview
-  subtitle: Lodging
+  title: Lodging
+  subtitle: The Westin Harborview
   thumbnail: assets/img/site-guide/eastland.png
 
 #what displays when the item is clicked:
