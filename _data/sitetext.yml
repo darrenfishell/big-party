@@ -18,8 +18,8 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "The Venue"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: venue
+    text: "Where it is, how to get there, more."
+    section: portfolio
     closebutton: "Close Project"
 
   how-to-succeed:
