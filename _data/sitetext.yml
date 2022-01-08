@@ -17,10 +17,10 @@ en: &DEFAULT_EN
     buttonlink: "#how-to-succeed"
 
   portfolio:
-    title: "The Venue"
-    text: "Where it is, how to get there, more."
+    title: "How to succeed at our wedding"
+    text: "In three simple steps"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close infobox"
 
   how-to-succeed:
     title: "How to succeed at our wedding"
