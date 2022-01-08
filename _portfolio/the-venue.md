@@ -1,5 +1,5 @@
 ---
-caption: How to get there, what to wear, etc.
+caption:
   title: Portland Public Works
   subtitle: The venue
   thumbnail: ../site-guide/pubic-works.png
