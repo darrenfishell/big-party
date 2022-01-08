@@ -12,19 +12,19 @@
 en: &DEFAULT_EN
   nav:
     - title: "The Venue"
-      section: the-venue
+      section: how-to-succeed
     - title: "Lodging"
-      section: lodging
+      section: how-to-succeed
     - title: "Non-wedding fun"
-      section: non-wedding-fun
+      section: how-to-succeed
     - title: "Timeline"
       section: timeline
     # - title: "Team"
     #   section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    # - title: "Theme Source"
+    #   url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:

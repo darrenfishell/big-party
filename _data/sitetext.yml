@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: We're getting married!
-    text: Now what?
+    title:
+    text:
     button: All You Need to Know
     buttonlink: "#how-to-succeed"
 
@@ -30,18 +30,18 @@ en: &DEFAULT_EN
             icon: fas fa-map-signs
           - url: https://www.instagram.com/the_public_works_events/
             icon: fab fa-instagram
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
       - name: "Lodging"
-        role: "Group rates and guidance"
+        role: "Group rate at the Eastland (booking link below)"
         image: assets/img/site-guide/eastland.png
         social:
           - url: https://www.marriott.com/event-reservations/reservation-link.mi?id=1640189676884&key=GRP&app=resvlink
             icon: fas fa-hotel
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://goo.gl/maps/c87n28hA1WuRDY5L7
+            icon: fas fa-map-signs
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
       - name: "Non-wedding fun"
         role: "A Maine Adventure®"
         image: assets/img/site-guide/renys.png
