@@ -12,9 +12,9 @@
 en: &DEFAULT_EN
   nav:
     - title: "The Venue"
-      section: how-to-succeed
+      section: the-venue
     - title: "Lodging"
-      section: how-to-succeed
+      section: lodging
       popup: testing_popup
     - title: "Non-wedding fun"
       section: how-to-succeed

@@ -1,4 +1,6 @@
 ---
+anchor: lodging
+
 caption:
   title: Lodging
   subtitle: The Westin Harborview
