@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   nav:
     - title: "The Venue"
-      popup: p1
+      section: how-to-succeed
     - title: "Lodging"
       section: how-to-succeed
       popup: testing_popup
