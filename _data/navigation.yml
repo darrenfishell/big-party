@@ -15,9 +15,8 @@ en: &DEFAULT_EN
       section: the-venue
     - title: "Lodging"
       section: lodging
-      popup: testing_popup
     - title: "Non-wedding fun"
-      section: how-to-succeed
+      section: non-wedding-fun
     - title: "Timeline"
       section: timeline
     # - title: "Team"
