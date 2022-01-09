@@ -17,7 +17,7 @@ Don't be confused, the Portland Westin used to be called the Eastland. That's th
 
 The Westin Harborview is the closest and best option to the venue. We have a [wedding block available](https://www.marriott.com/event-reservations/reservation-link.mi?id=1640189676884&key=GRP&app=resvlink) at a discounted rate.
 
-There are plenty of other great options in and around Portland, too. If you're looking for broader trip planning suggestions, <a href="#p-non-wedding-fun" data-toggle="modal">click here</a>.
+There are plenty of other great options in and around Portland, too. If you're looking for broader trip planning suggestions, <a href="#p-non-wedding-fun" data-dismiss="modal" data-toggle="modal">click here</a>.
 
 {:.list-inline}
 -
