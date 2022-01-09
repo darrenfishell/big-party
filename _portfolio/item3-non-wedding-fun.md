@@ -3,12 +3,12 @@ anchor: non-wedding-fun
 
 caption:
   title: Non-wedding fun
-  subtitle: What to do when we're not getting married [download our PDF guide](https://docs.google.com/document/d/1nd5gaZdOhdE562DCBbmpBszoWG6b5t9onOWh9Qf4JQc/export?format=pdf)
+  subtitle: What to do when we're not getting married
   thumbnail: assets/img/site-guide/eastland.png
 
 #what displays when the item is clicked:
 title: Plan your trip!
-subtitle: We love Portland. You should too. Here are our tips on how to plan your Maine adventure.
+subtitle: We love Portland. You should too. Here are our tips on how to plan your Maine adventure [see our PDF guide]({% link https://docs.google.com/document/d/1nd5gaZdOhdE562DCBbmpBszoWG6b5t9onOWh9Qf4JQc/export?format=pdf %})
 image: assets/img/site-guide/renys.png
 alt: How to have a Maine adventure
 
