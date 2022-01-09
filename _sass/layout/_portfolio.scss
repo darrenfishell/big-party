@@ -77,10 +77,11 @@
   }
   .modal-content {
     padding: 100px 0;
-    text-align: center;
+    text-align: left;
     h2 {
       font-size: 3em;
       margin-bottom: 15px;
+      text-align: center !important;
     }
     p {
       margin-bottom: 30px;
@@ -89,6 +90,7 @@
       font-size: 16px;
       font-style: italic;
       margin: 20px 0 30px;
+      text-align: center !important;
       @include serif-font;
     }
     ul.list-inline {
