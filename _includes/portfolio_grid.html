@@ -9,7 +9,7 @@
     </div>
     <div class="row">
 	{% for project in site.portfolio %}
-    <a name="#{{ project.anchor }}"></a>
+    <a name="#{{ project.anchor }}">
       <div class="col-md-4 col-sm-6 portfolio-item">
         <a class="portfolio-link" data-toggle="modal" href="#p{{ project.anchor }}">
           <div class="portfolio-hover">
@@ -19,6 +19,7 @@
           </div>
           <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
         </a>
+      </a>
         <div class="portfolio-caption">
           <h4>{{ project.caption.title }}</h4>
           <p class="text-muted">{{ project.caption.subtitle }}</p>
