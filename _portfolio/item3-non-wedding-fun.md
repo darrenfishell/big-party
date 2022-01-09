@@ -21,6 +21,5 @@ The views of Casco Bay from Portland's East End still take our breath away. For 
 
 But there's a ton more to see and explore in and around Portland. Sure, there's the giant boot at L.L. Bean that's just up the road a piece. But there are plenty more gems to find. So, here's our fall guide to the area.
 
-{:.list-inline}
-- Other item:
-- More list:
+* Other item:
+* More list:
