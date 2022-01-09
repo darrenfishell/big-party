@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/big-party" # the subpath of your site, e.g. /blog
 
-title      : Darren + Kaitlyn
+title      : Darren + Kaitlyn 10.8.22
 email      : guesswho@darrenfishell.website #this is also the email contact forms will go to
 description: "Information about our wedding"
 author     : Darren Fishell
