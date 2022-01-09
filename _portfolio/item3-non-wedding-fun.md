@@ -8,7 +8,7 @@ caption:
 
 #what displays when the item is clicked:
 title: Plan your trip!
-subtitle: We love Portland. You should too. Here are our tips on how to plan _your_ Maine adventure.
+subtitle: We love Portland. You should too. Here are our tips on how to plan your Maine adventure.
 image: assets/img/site-guide/renys.png
 alt: How to have a Maine adventure
 
