@@ -20,12 +20,10 @@
               <a class="nav-link js-scroll-trigger" type="URL" href="{{ link.url }}">{{ link.title }}</a>
             {%- else if link.popup -%}
               <a class="nav-link js-scroll-trigger" data-toggle="modal" href="#{{ link.popup }}">{{ link.title }}</a>
-            {% comment %}
-              {%- else if link.section -%}
-                <a class="nav-link js-scroll-trigger" type="SECTION" href="#{{ link.section }}">{{ link.title }}</a>
-              {%- else -%}
-                <a class="nav-link js-scroll-trigger" type="ELSE" href="#">{{ link.title }}</a>
-            {% endcomment %}
+            {%- else if link.section -%}
+              <a class="nav-link js-scroll-trigger" type="SECTION" href="#{{ link.section }}">{{ link.title }}</a>
+            {%- else -%}
+              <a class="nav-link js-scroll-trigger" type="ELSE" href="#">{{ link.title }}</a>
             {%- endif -%}
           </li>
         {% endfor %}
