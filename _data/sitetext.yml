@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title:
+    title: Oct. 8, 2022
     text:
     button: All You Need to Know
     buttonlink: "#how-to-succeed"
