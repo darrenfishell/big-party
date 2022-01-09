@@ -8,7 +8,7 @@ caption:
 
 #what displays when the item is clicked:
 title: The Portland Westin Harborview
-subtitle: [Book at our group rate]({% link https://www.marriott.com/event-reservations/reservation-link.mi?id=1640189676884&key=GRP&app=resvlink %}) or explore Portland's many lodging options.
+subtitle: <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1640189676884&key=GRP&app=resvlink">Book at our group rate</a> or explore Portland's many lodging options.
 image: assets/img/site-guide/eastland.png
 alt: Portland Westin Harborview
 
