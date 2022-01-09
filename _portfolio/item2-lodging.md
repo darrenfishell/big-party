@@ -8,7 +8,7 @@ caption:
 
 #what displays when the item is clicked:
 title: The Portland Westin Harborview
-subtitle: Book at our group rate or explore Portland's many lodging options.
+subtitle: [Book at our group rate]({% link https://www.marriott.com/event-reservations/reservation-link.mi?id=1640189676884&key=GRP&app=resvlink %}) or explore Portland's many lodging options.
 image: assets/img/site-guide/eastland.png
 alt: Portland Westin Harborview
 
@@ -17,7 +17,10 @@ Don't be confused, the Portland Westin used to be called the Eastland. That's th
 
 The Westin Harborview is the closest and best option to the venue. We have a [wedding block available](https://www.marriott.com/event-reservations/reservation-link.mi?id=1640189676884&key=GRP&app=resvlink) at a discounted rate.
 
-There are plenty of other great options in and around Portland, too. If you're looking for broader trip planning suggestions, <a onclick="$('#p-lodging').one('hidden.bs.modal', function() { $('#p-non-wedding-fun').modal('show'); }).modal('hide');" href='#p-non-wedding-fun'>click here</a>.
+There are plenty of other great options in and around Portland, too. Our top recommendations:
 
-* Other item:
-* More list:
+* [The Regency Hotel](https://www.theregency.com/)
+* [The Press Hotel](https://thepresshotel.com/)
+* [Canopy](https://www.hilton.com/en/hotels/pwmoppy-canopy-portland-waterfront/)
+
+If you're looking for broader trip planning suggestions, <a onclick="$('#p-lodging').one('hidden.bs.modal', function() { $('#p-non-wedding-fun').modal('show'); }).modal('hide');" href='#p-non-wedding-fun'>click here</a>.
