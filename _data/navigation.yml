@@ -12,14 +12,12 @@
 en: &DEFAULT_EN
   nav:
     - title: "The Venue"
-      section:
-      popup: p1
+      url: http://google.com
     - title: "Lodging"
       section: how-to-succeed
-      popup:
+      popup: testing_popup
     - title: "Non-wedding fun"
       section: how-to-succeed
-      popup:
     - title: "Timeline"
       section: timeline
     # - title: "Team"
