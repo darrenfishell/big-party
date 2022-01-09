@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   nav:
     - title: "The Venue"
-      url: \#p1
+      popup: #p1
     - title: "Lodging"
       section: how-to-succeed
     - title: "Non-wedding fun"
