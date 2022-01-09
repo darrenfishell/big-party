@@ -14,12 +14,12 @@ en: &DEFAULT_EN
     title:
     text:
     button: All You Need to Know
-    buttonlink: "#portfolio"
+    buttonlink: "#how-to-suceed"
 
-  portfolio:
+  how-to-succeed:
     title: "How to succeed at our wedding"
     text: "In three simple steps"
-    section: portfolio
+    section: how-to-succeed
     closebutton: "Close infobox"
 
   timeline:
