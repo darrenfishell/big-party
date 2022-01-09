@@ -18,9 +18,9 @@
           <li class="nav-item">
             {%- if link.url -%}
               <a class="nav-link js-scroll-trigger" type="URL" href="{{ link.url }}">{{ link.title }}</a>
-            {%- else if link.popup and link.popup != "" and link.popup != nil -%}
+            {%- elsif link.popup -%}
               <a class="nav-link js-scroll-trigger" data-toggle="modal" href="#{{ link.popup }}">{{ link.title }}</a>
-            {%- else if link.section -%}
+            {%- elsif link.section -%}
               <a class="nav-link js-scroll-trigger" type="SECTION" href="#{{ link.section }}">{{ link.title }}</a>
             {%- else -%}
               <a class="nav-link js-scroll-trigger" type="ELSE" href="#">{{ link.title }}</a>
