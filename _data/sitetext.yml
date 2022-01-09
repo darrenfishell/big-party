@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title:
     text:
     button: All You Need to Know
-    buttonlink: "#how-to-suceed"
+    buttonlink: "#how-to-succeed"
 
   how-to-succeed:
     title: "How to succeed at our wedding"
