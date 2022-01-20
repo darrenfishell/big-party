@@ -20,23 +20,23 @@ en: &DEFAULT_EN
     title: "How to succeed at our wedding"
     text: "In three simple steps"
     section: how-to-succeed
-    closebutton: "Close infobox"
+    closebutton: "Close"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: Our Story
+    text: "Most of the David Copperfield stuff"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Darren meets a 1L"
+        year: "2012"
+        desc: "The couple met in Portland, Maine, in 2012. Darren was a journalist of no repute and Kaitlyn was a first-year law student. They bonded over outdoor adventures and Darren tried to make a hollandaise on a really terrible electric stove (with those awful coils) that Kaitlyn saved from the brink. There were synergies."
         image: assets/img/timeline/zircon.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Smithereens"
+        year: "2013"
+        desc: "By the next summer, the couple and their new cat Smithereens (alias Smitty) moved in together to an apartment in Portland's West End, the neighborhood where they live {{ _to this very day_ | markdownify }}. "
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Jekyll Theme is created"
