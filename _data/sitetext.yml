@@ -29,7 +29,7 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Darren meets a 1L"
+      - title: "The Meeting"
         year: "2012"
         desc: "We met in Portland, Maine, in 2012. Darren was a journalist of no repute and Kaitlyn was a first-year law student. They bonded over outdoor adventures and Darren tried to make a hollandaise on a really terrible electric stove (with those awful coils) that Kaitlyn saved from the brink. There were synergies."
         image: assets/img/timeline/zircon.jpg
