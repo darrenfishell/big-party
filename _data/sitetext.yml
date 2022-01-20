@@ -31,26 +31,59 @@ en: &DEFAULT_EN
     events:
       - title: "Darren meets a 1L"
         year: "2012"
-        desc: "The couple met in Portland, Maine, in 2012. Darren was a journalist of no repute and Kaitlyn was a first-year law student. They bonded over outdoor adventures and Darren tried to make a hollandaise on a really terrible electric stove (with those awful coils) that Kaitlyn saved from the brink. There were synergies."
+        desc: "We met in Portland, Maine, in 2012. Darren was a journalist of no repute and Kaitlyn was a first-year law student. They bonded over outdoor adventures and Darren tried to make a hollandaise on a really terrible electric stove (with those awful coils) that Kaitlyn saved from the brink. There were synergies."
         image: assets/img/timeline/zircon.jpg
         alt:
       - title: "Smithereens"
         year: "2013"
-        desc: "By the next summer, the couple and their new cat Smithereens (a.k.a. Smitty) moved in to an apartment in Portland's West End, the neighborhood where they live _to this very day_. That summer, they took their first kayak trip to Warren Island State Park, putting a tandem kayak on top of Darren's Toyota Camry and then driving that Camry onto a State Ferry to Islesboro. They then packed the kayak and paddled it the relatively short distance to the neighboring island/state park, learning that what they say about tandem kayaks is true: you learn a lot about yourself."
-        image: assets/img/timeline/kayak.jpg
+        desc: "By the next fall, we and our new cat Smithereens (a.k.a. Smitty) moved in to an apartment in Portland's West End, the neighborhood where they live _to this very day_. In July, we had taken our first kayak trip to Warren Island State Park, putting a tandem kayak on top of Darren's Toyota Camry and then driving that Camry onto a State Ferry to Islesboro. We then packed the kayak and paddled it the relatively short distance to the neighboring island/state park, learning that what they say about tandem kayaks is true: you learn a lot about yourself."
+        image: assets/img/timeline/warren-island.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+      - title: "Changes"
+        year: "2014"
+        desc: "As Kaitlyn finished her second year of law school, Darren started as a business reporter at the _Bangor Daily News_, which he enjoyed finding copies of all around the state. To this day, he remains incensed by [predatory electricity sales](https://www.themainemonitor.org/private-electricity-suppliers-cost-mainers-132-million-more-than-necessary/)."
+        image: assets/img/timeline/bdn-crier.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "Lawyer"
+        year: "2015"
+        desc: "Kaitlyn finished law school, was admitted to the Maine Bar and started as an associate at Pierce Atwood. We moved to an apartment on Portland's East End, at the top of Munjoy Hill. Smitty enjoyed the move, until Bernie arrived."
+        image: assets/img/timeline/law-school-grad.jpg
         alt:
         # you can enforce the alignment
-        align: right
+        # align: right
+      - title: "Enjoyer"
+        year: "2015"
+        desc: "To celebrate graduation, we went out to the woods with our close friends and hiked and tubed down some Western Maine waters. Darren had recently acquired a drone, which prompted a brief enthusiasm for photos like this."
+        image: assets/img/timeline/drone-tubing.jpg
+        alt:
+      - title: "Pac Man"
+        year: "2016"
+        desc: "At some point, Darren finally beat Kaitlyn at Pac Man. Unfortunately, the bar with the best Pac Man machine in town became the wrong kind of unsavory and the competition remains on hiatus."
+        image: assets/img/timeline/pac-man.jpg
+        alt:
+      - title: "Bernie"
+        year: "2016"
+        desc: "Bernie arrived and Smitty had to learn to share things, like boxes that were already too small."
+        image: assets/img/timeline/bernie-smitty.jpg
+        alt:
+      - title: "Greece"
+        year: "May 2018"
+        desc: "We took our first trip that felt like a capital V Vacation, to Greece — we had a blast. We stayed in Athens, the oceanside hamlets of Porto Rafti and Palea Fokea, and the insane island of Santorini, where we learned that we _do_ like a dessert wine."
+        image: assets/img/timeline/greece-lookout.jpg
+      - title: "September 2018"
+        year: "2018"
+        desc: "Kaitlyn showed Darren around Mexico City! Despite Mexican parentage and growing up in Southern California, Darren had never been. We greatly enjoyed the canals of Xochimilco, where canals built by the Aztecs are used for a kind of floating Mexican dim sum situation."
+        image: assets/img/timeline/mexico-city.jpg
+      - title: "Home"
+        year: "May 2020"
+        desc: "Just as lockdowns swept the country, we were fortunate to be under contract for the West End condo we were renting. We closed on the condo on Darren's birthday."
+        image: assets/img/timeline/condo-closing.jpg
+        alt:
+      - title: "Aruba"
+        year: "2021"
+        desc: "In our first post-vaccine trip, we explored the strange desert island of Aruba, about which we knew very little at the time we booked our flights. It was very nice to travel again."
+        image: assets/img/timeline/aruba-car-hike.jpg
+        alt:
     end: "Be Part <br> of Our <br> Story!"
 
   about:
