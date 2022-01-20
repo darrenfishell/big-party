@@ -36,7 +36,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Smithereens"
         year: "2013"
-        desc: "By the next summer, the couple and their new cat Smithereens (a.k.a. Smitty) moved in to an apartment in Portland's West End, the neighborhood where they live {{ _to this very day_ | markdownify }}. That summer, they took their first kayak trip to Warren Island State Park, putting a tandem kayak on top of Darren's Toyota Camry and then driving that Camry onto a State Ferry to Islesboro. They then packed the kayak and paddled it the relatively short distance to the neighboring island/state park, learning that what they say about tandem kayaks is true: you learn a lot about yourself."
+        desc: "By the next summer, the couple and their new cat Smithereens (a.k.a. Smitty) moved in to an apartment in Portland's West End, the neighborhood where they live _to this very day_. That summer, they took their first kayak trip to Warren Island State Park, putting a tandem kayak on top of Darren's Toyota Camry and then driving that Camry onto a State Ferry to Islesboro. They then packed the kayak and paddled it the relatively short distance to the neighboring island/state park, learning that what they say about tandem kayaks is true: you learn a lot about yourself."
         image: assets/img/timeline/kayak.jpg
         alt:
       - title: "Jekyll Theme is created"
