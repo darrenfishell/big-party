@@ -79,6 +79,11 @@ en: &DEFAULT_EN
         desc: "Just as lockdowns swept the country, we were fortunate to be under contract for the West End condo we were renting. We closed on the condo on Darren's birthday."
         image: assets/img/timeline/condo-closing.jpg
         alt:
+      - title: "Home"
+        year: "October 2020"
+        desc: "After working remotely for months during COVID lockdowns, we figured we'd pick up ourselves and the cats and go to California, staying with Darren's parents. Smitty and Bernie joined, staying through Thanksgiving, where we enjoyed the rare treat of al fresco Thanksgiving."
+        image: assets/img/timeline/covid-thanksgiving.jpg
+        alt:
       - title: "Aruba"
         year: "2021"
         desc: "In our first post-vaccine trip, we explored the strange desert island of Aruba, about which we knew very little at the time we booked our flights. It was very nice to travel again."
