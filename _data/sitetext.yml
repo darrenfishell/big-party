@@ -70,8 +70,8 @@ en: &DEFAULT_EN
         year: "May 2018"
         desc: "We took our first trip that felt like a capital V Vacation, to Greece — we had a blast. We stayed in Athens, the oceanside hamlets of Porto Rafti and Palea Fokea, and the insane island of Santorini, where we learned that we _do_ like a dessert wine."
         image: assets/img/timeline/greece-outlook.jpg
-      - title: "September 2018"
-        year: "2018"
+      - title: "Mexico City"
+        year: "September 2018"
         desc: "Kaitlyn showed Darren around Mexico City! Despite Mexican parentage and growing up in Southern California, Darren had never been. We greatly enjoyed the canals of Xochimilco, where canals built by the Aztecs are used for a kind of floating Mexican dim sum situation."
         image: assets/img/timeline/mexico-city.jpg
       - title: "Home"
@@ -156,7 +156,7 @@ team:
           icon: fab fa-facebook-f
         - url: https://linkedin.com
           icon: fab fa-linkedin-in
-          
+
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
