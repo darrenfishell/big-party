@@ -4,7 +4,7 @@ anchor: non-wedding-fun
 caption:
   title: Non-wedding fun
   subtitle: What to do when we're not getting married
-  thumbnail: assets/img/site-guide/eastland.png
+  thumbnail: assets/img/site-guide/head-beach.jpg
 
 #what displays when the item is clicked:
 title: Plan your trip!
