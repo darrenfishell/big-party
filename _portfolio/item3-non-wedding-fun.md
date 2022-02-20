@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Plan your trip!
 subtitle: We love Portland. You should too. Here are our tips on how to plan your Maine adventure <a href="https://docs.google.com/document/d/1nd5gaZdOhdE562DCBbmpBszoWG6b5t9onOWh9Qf4JQc/export?format=pdf">see our PDF guide</a>.
-image: assets/img/site-guide/renys.png
+image: assets/img/site-guide/head-beach.png
 alt: How to have a Maine adventure
 
 ---
