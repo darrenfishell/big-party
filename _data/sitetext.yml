@@ -49,8 +49,6 @@ en: &DEFAULT_EN
         desc: "Kaitlyn finished law school, was admitted to the Maine Bar and started as an associate at Pierce Atwood. We moved to an apartment on Portland's East End, at the top of Munjoy Hill. Smitty enjoyed the move, until Bernie arrived."
         image: assets/img/timeline/law-school-grad.jpg
         alt:
-        # you can enforce the alignment
-        # align: right
       - title: "Enjoyer"
         year: "2015"
         desc: "To celebrate graduation, we went out to the woods with our close friends and hiked and tubed down some Western Maine waters. Darren had recently acquired a drone, which prompted a brief enthusiasm for photos like this."
