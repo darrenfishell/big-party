@@ -47,13 +47,12 @@
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
 	  {%- endif -%}
       </div>
+      <div class="audio-player">
+        <audio controls autoplay loop>
+         <source src="assets/mp3/mingus-cumbia.mp3" type="audio/mpeg">
+         Your browser does not support the audio element.
+        </audio>
+      </div>
     </div>
   </header>
   <!-- End Header -->
-
-  <div class="audio-player">
-    <audio controls autoplay loop>
-     <source src="assets/mp3/mingus-cumbia.mp3" type="audio/mpeg">
-     Your browser does not support the audio element.
-    </audio>
-  </div>
