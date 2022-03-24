@@ -24,10 +24,9 @@ en: &DEFAULT_EN
 
   timeline:
     title: Our Story
-    text: |-
-      Most of the David Copperfield stuff
+    text: 'Most of the David Copperfield stuff
 
-      (On mobile, long press a photo to enlarge. Right-click and open in new window on computer.)
+    (On mobile, long press a photo to enlarge. Right-click and open in new window on computer.)'
     section: timeline
     # left is the default
     #start_align: "left"
