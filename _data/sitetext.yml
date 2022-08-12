@@ -11,11 +11,11 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: RSVP — Oct. 8, 2022
+    title: Oct. 8, 2022
     text:
-    titlelink: https://forms.gle/S5JedE4tQQARtpJ57
-    button: All You Need to Know
-    buttonlink: "#how-to-succeed"
+    titlelink:
+    button: RSVP by Sept. 8
+    buttonlink: https://forms.gle/S5JedE4tQQARtpJ57 #"#how-to-succeed"
 
   how-to-succeed:
     title: "How to succeed at our wedding"
