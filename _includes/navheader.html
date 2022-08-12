@@ -38,7 +38,7 @@
     <div class="container">
       <div class="intro-text">
 	  {%- if site.data.sitetext[site.locale].header.title -%}
-        <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
+        <div class="intro-lead-in"><a href="{{site.data.sitetext[site.locale].titlelink}}">{{ site.data.sitetext[site.locale].header.title | markdownify }}</a></div>
 	  {%- endif -%}
 	  {%- if site.data.sitetext[site.locale].header.text -%}
         <div class="intro-heading text-uppercase">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
