@@ -17,16 +17,10 @@ en: &DEFAULT_EN
       section: lodging
     - title: "Non-wedding fun"
       section: non-wedding-fun
-    - title: "Timeline"
-      section: timeline
     - title: "Music"
       section: "how-to-groove"
-    # - title: "Team"
-    #   section: team
-    # - title: "Contact"
-    #   section: contact
-    # - title: "Theme Source"
-    #   url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Timeline"
+      section: timeline
 en-US:
   <<: *DEFAULT_EN
 en-CA:
