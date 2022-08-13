@@ -19,6 +19,8 @@ en: &DEFAULT_EN
       section: non-wedding-fun
     - title: "Timeline"
       section: timeline
+    - title: "Music"
+      section: "how-to-groove"
     # - title: "Team"
     #   section: team
     # - title: "Contact"
