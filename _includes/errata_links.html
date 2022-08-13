@@ -8,19 +8,19 @@
       </div>
     </div>
     <div class="row">
-	{% for project in site.errata %}
+	{% for item in site.portfolio %}
     <div class="col-md-4 col-sm-6 portfolio-item">
-      <a class="portfolio-link" id="{{ project.anchor }}" data-toggle="modal" href="#p-{{ project.anchor }}">
+      <a class="portfolio-link" id="{{ item.anchor }}" data-toggle="modal" href="#p-{{ item.anchor }}">
         <div class="portfolio-hover">
           <div class="portfolio-hover-content">
             <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
           </div>
         </div>
-        <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
+        <img class="img-fluid" src="{{ item.caption.thumbnail }}" alt="">
       </a>
       <div class="portfolio-caption">
-        <h4><a data-toggle="modal" href="{{ project.link }}">{{ project.caption.title }}</a></h4>
-        <p class="text-muted">{{ project.caption.subtitle }}</p>
+        <h4><a data-toggle="modal" href="{{ item.link }}">{{ item.caption.title }}</a></h4>
+        <p class="text-muted">{{ item.caption.subtitle }}</p>
       </div>
     </div>
 	{% endfor %}
