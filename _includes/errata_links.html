@@ -10,7 +10,7 @@
     <div class="row">
 	{% for item in site.errata %}
     <div class="col-md-4 col-sm-6 portfolio-item">
-      <a class="portfolio-link" id="{{ item.anchor }}" data-toggle="modal" href="#p-{{ item.anchor }}">
+      <a class="portfolio-link" id="{{ item.anchor }}" href="{{ item.link }}">
         <div class="portfolio-hover">
           <div class="portfolio-hover-content">
             <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
@@ -19,7 +19,7 @@
         <img class="img-fluid" src="{{ item.caption.thumbnail }}" alt="">
       </a>
       <div class="portfolio-caption">
-        <h4><a data-toggle="modal" href="#p-{{ item.anchor }}">{{ item.caption.title }}</a></h4>
+        <h4><a data-toggle="modal" href="#{{ item.link }}">{{ item.caption.title }}</a></h4>
         <p class="text-muted">{{ item.caption.subtitle }}</p>
       </div>
     </div>
