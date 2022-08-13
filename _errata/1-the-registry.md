@@ -1,7 +1,10 @@
 ---
-anchor: the-venue
+anchor: the-registry
 
 caption:
-  title: The Venue, Oct. 8, 2022
-  subtitle: Portland Public Works
-  thumbnail: assets/img/site-guide/pubic-works.png
+  title: Our Registry
+  subtitle: Honeymoon 💰 for 🇯🇵
+  link: registry #https://www.travelersjoy.com/darrenandkaitlyn
+  thumbnail: assets/img/okonomiyaki.png
+
+---
