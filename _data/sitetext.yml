@@ -29,6 +29,11 @@ en: &DEFAULT_EN
     section: other-links
     closebutton: "Close"
 
+  how-to-groove:
+    title: "How to Groove"
+    text: "A sampling of our party playlist, so you know how to groove."
+    section: how-to-groove
+
   timeline:
     title: Our Story
     text: "Most of the David Copperfield stuff<br><br>
