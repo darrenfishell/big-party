@@ -3,7 +3,7 @@ anchor: non-wedding-fun
 
 caption:
   title: Non-wedding fun
-  subtitle: What to do when we're not getting married
+  subtitle: What to do when we're not getting married (or eating oysters, or dancing)
   thumbnail: assets/img/site-guide/head-beach.jpg
 
 #what displays when the item is clicked:
