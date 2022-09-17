@@ -1,11 +1,10 @@
 ---
 anchor: the-registry
-link: registry
+link: https://www.travelersjoy.com/darrenandkaitlyn
 
 caption:
   title: Our Registry
   subtitle: Honeymoon 💰 for 🇯🇵
-  #https://www.travelersjoy.com/darrenandkaitlyn
   thumbnail: assets/img/okonomiyaki.jpg
 
 ---
