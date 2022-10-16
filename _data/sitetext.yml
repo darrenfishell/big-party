@@ -33,6 +33,10 @@ en: &DEFAULT_EN
     title: "How to Groove"
     text: "A sampling of our party playlist, so you know how to groove."
     section: how-to-groove
+    
+  thank-you:
+    title: "Thank you"
+    text: "From the bottom of our hearts, thank you for all of the support, love and the priceless memories."
 
   timeline:
     title: Our Story
